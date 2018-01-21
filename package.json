@@ -49,6 +49,7 @@
     "karma-chai": "^0.1.0",
     "karma-chrome-launcher": "^2.2.0",
     "karma-mocha": "^1.2.0",
+    "karma-mocha-reporter": "^2.2.5",
     "mocha": "^4.0.1",
     "node-fetch": "^2.0.0-alpha.9",
     "sinon": "^4.1.3",

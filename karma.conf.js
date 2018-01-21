@@ -17,6 +17,7 @@ module.exports = function(karma) {
 		preprocessors: {
 			'test/*.js': ['browserify']
 		},
+		reporters: ['mocha'],
 		browserify: {
 			debug: true,
 			transform: [
